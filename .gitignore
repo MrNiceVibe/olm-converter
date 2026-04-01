@@ -1,0 +1,19 @@
+.DS_Store
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+
+# Private/local archive inputs
+*.olm
+Outlook för Mac-arkiv/
+Outlook för mac-archive/
+
+# Local exports
+sample-export/
+sample-export-mbox/
+final-gmail-mbox/
+export/
+
+# Local notes and one-off build docs
+OLM_CONVERTER_BUILD_SCHEMA.md
